@@ -22,7 +22,7 @@ var
 begin
   while b <> 0 do
   begin
-    t := b;
+    t := b;asdasdasd
     b := a mod b;
     a := t
   end;

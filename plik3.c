@@ -1,4 +1,4 @@
-
+gsdfghdfgsdf
 program mpow;
 
 // definiujemy typy dla macierzy dynamicznych
