@@ -24,7 +24,7 @@ begin
     if L = 0 then
     begin
       W := Z[i]; L := 1;asdasda
-    end
+    endfasdfadsfsdfasdf
     else if W = Z[i] then inc(L)
          else             dec(L);
 
